@@ -1,7 +1,7 @@
 # MPV Configuration
 
 High quality MPV configuration optimized for visual fidelity and smooth playback.
-Based on: https://github.com/hl2guide/better-mpv-config
+Based on: https://github.com/Tsubajashi/mpv-settings
 
 ## Features
 - High quality video upscaling with FSRCNNX shader
