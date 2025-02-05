@@ -92,6 +92,6 @@ mpv /path/to/your/video_file.mkv
 * Positioning and scaling optimized for various screen sizes.
 
 ## Credits
-* **FSRCNNX shader by igv
-* **KrigBilateral shader by igv
-* **Original configuration structure by Tsubajashi
+* FSRCNNX shader by **igv**
+* KrigBilateral shader by **igv**
+* Original configuration structure by **Tsubajashi**
